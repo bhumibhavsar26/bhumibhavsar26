@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Bhumi 👋
 
-<!--
-**bhumibhavsar26/bhumibhavsar26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student curious about how AI can help people solve real-world problems.
 
-Here are some ideas to get you started:
+## What I'm interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial intelligence and large language models
+- AI agents and agentic AI
+- How agents use tools, plan, and work together
+
+## What I'm learning
+
+I'm exploring the ideas and technologies behind useful, reliable AI agents—and building my understanding one project at a time.
+
+## Let's connect
+
+I'm always happy to learn from others, exchange ideas, and collaborate on projects involving AI, agents, or computer science.
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and follow along as I learn and build. ✨
